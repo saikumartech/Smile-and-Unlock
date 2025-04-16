@@ -22,7 +22,7 @@ Technologies Used
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
-- FER-2013 dataset (or similar)
+- FER-2013/GENKI- 4K Dataset
 - Jupyter Notebook (for model training and experimentation)
 
 
