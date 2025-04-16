@@ -23,6 +23,25 @@ Technologies Used
 - NumPy
 - Matplotlib
 - FER-2013/GENKI- 4K Dataset
-- Jupyter Notebook (for model training and experimentation)
+- Google Colab (for model training and experimentation)
+
+Smile and Unlock – Dataset Exploration
+
+This project is part of a deep learning research initiative to detect smiles from facial images. The current milestone explores the GENKI-4K dataset for training a binary classification model.
+
+Objectives
+- Finalize and load GENKI-4K dataset
+- Inspect image shapes and label balance
+- Visualize sample images and class distribution
+- Prepare data preprocessing pipeline (resize, normalize, split)
+
+Dataset
+- Source: [Kaggle - GENKI-4K](https://www.kaggle.com/datasets/talhasar/genki4k)
+- Format: Grayscale facial images, 64×64 resolution
+- Labels: 0 (No Smile), 1 (Smile)
+
+Next Milestone
+- Build a Convolutional Neural Network (CNN) for smile detection
+- Train and evaluate model performance
 
 
